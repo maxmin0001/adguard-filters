@@ -1,0 +1,6 @@
+! My AdGuard DNS Filter
+! Last updated: 2026-03-23
+
+||youtube.com^
+!||facebook.com^
+
