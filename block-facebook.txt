@@ -1,0 +1,8 @@
+
+||facebook.com^
+||www.facebook.com^
+||m.facebook.com^
+||fbcdn.net^
+||fbsbx.com^
+||fb.com^
+||messenger.com^
